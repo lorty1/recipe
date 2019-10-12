@@ -1,0 +1,19 @@
+{
+  "name": "recipetest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorty1/recipe.git"
+  },
+  "author": "lorty1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorty1/recipe/issues"
+  },
+  "homepage": "https://github.com/lorty1/recipe#readme"
+}
